@@ -11,4 +11,4 @@ The datset used has for developing this system was protected under copyright law
 
 ...
 # Methodology
-A Sequence to sequence model was developed using Long-Short term memory network (LSTM). Use of LSTM network has enhanced the performance of the translation system.
+A Sequence to sequence model was developed using Long-Short term memory network (LSTM). Use of LSTM network has enhanced the overall performance of the translation system. This also uses attention mechanism to exploit the positional mapping between the two languages. This mapping can enhance the grammatical correctness of the target text. 
