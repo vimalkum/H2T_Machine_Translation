@@ -1,7 +1,7 @@
 # H2T_Machine_Translation
 Hindi to Tamil machine translation system
 # Dataset
-The datset used has for developing this system was protected under copyright law. So, you can recreate the parallel dataset as shown,
+The datset used for developing this system was protected under copyright law. So, you can recreate the parallel dataset as shown,
 
 <Hindi Sentence>  <Tamil Sentence>
   
